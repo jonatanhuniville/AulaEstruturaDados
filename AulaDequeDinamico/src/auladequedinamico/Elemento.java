@@ -1,5 +1,8 @@
 package auladequedinamico;
 
+/*
+ * Author: Jonatan Henrique Freudenborg - BSI 3º Ano - UNIVILLE
+ * */
 public class Elemento <E> {
 
 	private Elemento<E> proximo;

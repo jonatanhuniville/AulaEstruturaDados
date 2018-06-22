@@ -1,5 +1,8 @@
 package auladequedinamico;
 
+/*
+ * Author: Jonatan Henrique Freudenborg - BSI 3º Ano - UNIVILLE
+ * */
 public class Principal {
 
 	public static <E> void main(String[] args) throws Exception {

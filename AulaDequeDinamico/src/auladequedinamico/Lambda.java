@@ -1,5 +1,8 @@
 package auladequedinamico;
 
+/*
+ * Author: Jonatan Henrique Freudenborg - BSI 3º Ano - UNIVILLE
+ * */
 public interface Lambda {
 	
 	Lambda lambdaAdd = (Object recebido) -> System.out.println("Adicionando ao final da fila " + recebido);
